@@ -7,11 +7,11 @@
 $boost=1,site=github.com
 $boost=1,site=rosettacode.org
 $boost=1,site=css-tricks.com
-$boost=1,site=codepen.io/
-$boost=1,site=stackoverflow.com/
-$boost=1,site=www.lobste.rs/
-$boost=1,site=www.simple.wikipedia.org/
-$boost=1,site=www.freecodecamp.org/
+$boost=1,site=codepen.io
+$boost=1,site=stackoverflow.com
+$boost=1,site=lobste.rs
+$boost=1,site=simple.wikipedia.org
+$boost=1,site=freecodecamp.org
 
 
 
