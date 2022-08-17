@@ -5,13 +5,13 @@
 
 
 $boost=1,site=github.com
-$boost=1,site=https://www.rosettacode.org
+$boost=1,site=www.rosettacode.org
 $boost=1,site=www.css-tricks.com
-$boost=1,site=https://codepen.io/
-$boost=1,site=https://stackoverflow.com/
-$boost=1,site=https://lobste.rs/
-$boost=1,site=https://simple.wikipedia.org/
-$boost=1,site=https://freecodecamp.org/
+$boost=1,site=www.codepen.io/
+$boost=1,site=www.stackoverflow.com/
+$boost=1,site=www.lobste.rs/
+$boost=1,site=www.simple.wikipedia.org/
+$boost=1,site=www.freecodecamp.org/
 
 
 
